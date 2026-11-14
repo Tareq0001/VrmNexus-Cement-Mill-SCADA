@@ -1,0 +1,16 @@
+{
+  "name": "vrm-nexus-cement-mill-scada",
+  "private": true,
+  "version": "1.0.0",
+  "description": "VRM-NEXUS: Vertical Roller Mill, MV-VFD Drive & ESP Baghouse Filtration SCADA - Digital Twin by Tareq Abuashi",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "vite": "^6.2.0"
+  }
+}
